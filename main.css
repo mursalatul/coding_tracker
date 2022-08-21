@@ -1,0 +1,12 @@
+#full-table{
+    border-color: aqua;
+    text-align: center;
+}
+.container
+{
+    margin-top: 5vh;
+}
+
+#target_input_line{
+    text-align: center;
+}
